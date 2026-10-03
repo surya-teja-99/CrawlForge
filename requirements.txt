@@ -1,0 +1,4 @@
+# Pinned on 2026-10-03 (Python 3.12, Linux).
+aiohttp==3.10.11
+beautifulsoup4==4.12.3
+pytest==9.1.1
